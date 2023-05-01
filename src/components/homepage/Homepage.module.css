@@ -4,4 +4,9 @@
   text-align: center;
   margin: auto;
   /* max-width: ; */
+  background-image: none;
+}
+
+.journalButton {
+  background-color: aquamarine;
 }
